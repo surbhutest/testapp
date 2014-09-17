@@ -1,6 +1,6 @@
 package test1;
 
 public class ClassA {
-private int i;
+private     int i;
 
 }
